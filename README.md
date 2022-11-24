@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A Junior Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **React and Spring** (especially SpringBoot)
+🌱 I’m currently learning **React and Spring** (especially SpringBoot)
 
-- 👨‍💻 I studied **computer science and economics** in Bavaria. 
+👨‍💻 I studied **computer science and economics** in Bavaria. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/simon.schroedl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simon.schroedl" height="30" width="40" /></a>
-<a href="/https://schroedl-simon.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://schroedl-simon.com" height="30" width="40" /></a>
+<a href="https://schroedl-simon.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://schroedl-simon.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
