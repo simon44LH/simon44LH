@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-- 🌱 I’m currently learning **React and Spring**
+🌱 I’m currently learning **React and Spring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
