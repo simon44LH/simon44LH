@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Simon</h1>
+<h1 align="center">Hi, I'm Simon</h1>
 <h3 align="center">A Junior Full-Stack Developer</h3>
 
 🌱  I’m currently learning **React and Spring** (especially SpringBoot)
