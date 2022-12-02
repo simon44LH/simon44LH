@@ -5,7 +5,7 @@
 
 👨‍💻  I studied **computer science and economics** in Bavaria. 
 
-🤝  I’m looking for help with the implementation of **swagger in docker**
+🤝  I’m looking for help with the implementation of **Swagger in Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
