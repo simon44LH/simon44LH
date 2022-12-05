@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Simon</h1>
 <h3 align="center">A Junior Full-Stack Developer</h3>
 
-🌱  I’m currently learning about **React and Spring-Framework (especially Springboot)** 
+🌱  I’m currently learning about **React and the Spring-Framework (especially Springboot)** 
 
 👨‍💻  I studied **computer science and economics** in Bavaria. 
 
