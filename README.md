@@ -5,8 +5,6 @@
 
 👨‍💻  I studied **computer science and economics** in Bavaria. 
 
-🤝  I’m looking for help with the implementation of **Swagger in Docker**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/simon.schroedl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simon.schroedl" height="30" width="40" /></a>
