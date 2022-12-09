@@ -3,7 +3,7 @@
 
 🌱  I’m currently learning about **React and the Spring-Framework (especially Springboot)** 
 
-👨‍💻  I studied **computer science and economics** in Bavaria. 
+👨‍💻  I studied **Computer science and Economics** in Bavaria. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
